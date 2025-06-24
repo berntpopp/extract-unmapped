@@ -1,3 +1,9 @@
 # Claude Code files
 CLAUDE.md
 .claude/
+
+# test_data
+test_data/
+
+# any bam files
+*.bam
